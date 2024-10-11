@@ -10,6 +10,7 @@
 body {
     background: url('image.png');
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /*! checkbox */
